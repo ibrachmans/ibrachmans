@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there!  [![](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif)](https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif) I'm Ilan Brachmans
 
-<!--
-**ibrachmans/ibrachmans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiast of the best web & mobile development technologies.
 
-Here are some ideas to get you started:
+I believe that anyone can do anything if they put their mind to it. It's cliche, but never stop learning and always believe you can do better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+-   ![man_technologist](https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png)  All of my projects are available at  [github.com/ibrachmans](https://github.com/ibrachmans/)
+
+-   ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png)  I can work with  **JavaScript, HTML, CSS, ReactJs, Next, Typescript.**
+
